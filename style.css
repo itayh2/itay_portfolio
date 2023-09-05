@@ -168,6 +168,9 @@ a:hover {
     height: 80vh;
   }
 
+  .profile-pic {
+    border-radius: 6rem;
+  }
   .section__pic-container {
     display: flex;
     height: 400px;
